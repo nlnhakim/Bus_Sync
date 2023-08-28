@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">34951831407-qd5hk6gsujmu196d6t28ja3d8h8mq3ph.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">34951831407</string>
+    <string name="google_api_key" translatable="false">AIzaSyAo-5FaKK3btiJEOTCUV8uPYuvk5hOcy94</string>
+    <string name="google_app_id" translatable="false">1:34951831407:android:0194fbc134e2c65567929a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAo-5FaKK3btiJEOTCUV8uPYuvk5hOcy94</string>
+    <string name="google_storage_bucket" translatable="false">mybusproject-1c980.appspot.com</string>
+    <string name="project_id" translatable="false">mybusproject-1c980</string>
+</resources>
